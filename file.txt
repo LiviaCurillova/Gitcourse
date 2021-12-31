@@ -1,3 +1,1 @@
-Alex has cat.
-
-Adding new, experimental funkcionality.
+Alex has a cat
